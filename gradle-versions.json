@@ -1,0 +1,1662 @@
+{
+  "8.11-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.11-rc-1-bin.zip",
+    "sha256": "2522b1593704b6b26e03cb2dec86d792b1c6ca5c33d10e078fab7a146354130e"
+  },
+  "8.11-milestone-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.11-milestone-1-bin.zip",
+    "sha256": "2c406ba10eaed701b69d01de924dfaf36106d4764e2090175d103b2e7acba211"
+  },
+  "8.10.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.10.2-bin.zip",
+    "sha256": "31c55713e40233a8303827ceb42ca48a47267a0ad4bab9177123121e71524c26"
+  },
+  "8.10.2-milestone-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.10.2-milestone-1-bin.zip",
+    "sha256": "b6650db1f41b146b4a780c2a183e14602a6cf861a7797d97ea530fb1384d6336"
+  },
+  "8.10.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.10.1-bin.zip",
+    "sha256": "1541fa36599e12857140465f3c91a97409b4512501c26f9631fb113e392c5bd1"
+  },
+  "8.10": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.10-bin.zip",
+    "sha256": "5b9c5eb3f9fc2c94abaea57d90bd78747ca117ddbbf96c859d3741181a12bf2a"
+  },
+  "8.10-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.10-rc-1-bin.zip",
+    "sha256": "de2ad3b249d89af001ce3dace548f8149675c692ef8bccf271444985b590d284"
+  },
+  "8.9": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.9-bin.zip",
+    "sha256": "d725d707bfabd4dfdc958c624003b3c80accc03f7037b5122c4b1d0ef15cecab"
+  },
+  "8.9-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.9-rc-2-bin.zip",
+    "sha256": "c2b58a752b82346a89a9d5384ba0882d9c3f0c29e0700c8e050002b81d6d4ff9"
+  },
+  "8.9-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.9-rc-1-bin.zip",
+    "sha256": "3ae7f7d3d433936b546c13505bb55adbae7708e715bfc4cf36cfc22650e6a881"
+  },
+  "8.8": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.8-bin.zip",
+    "sha256": "a4b4158601f8636cdeeab09bd76afb640030bb5b144aafe261a5e8af027dc612"
+  },
+  "8.8-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.8-rc-2-bin.zip",
+    "sha256": "b50250702d1b238f797c0778259f8b58714d5d16fbfec41fb19135bf86c64fe8"
+  },
+  "8.8-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.8-rc-1-bin.zip",
+    "sha256": "a2e1cfee7ffdeee86015b85b2dd2a435032c40eedc01d8172285556c7d8fea13"
+  },
+  "8.7": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.7-bin.zip",
+    "sha256": "544c35d6bd849ae8a5ed0bcea39ba677dc40f49df7d1835561582da2009b961d"
+  },
+  "8.7-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.7-rc-4-bin.zip",
+    "sha256": "a14ad975075d5d2dcc1fa1667e622597c6f8721e2ca42dff54ebe40c07eb1bc5"
+  },
+  "8.7-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.7-rc-3-bin.zip",
+    "sha256": "f0183d411f68b72d37112e47b539c6d91d1870842f5f2ce9cffefa0a7756ae52"
+  },
+  "8.7-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.7-rc-2-bin.zip",
+    "sha256": "3348170800c324fc97ff201fdc139ad465c073ab19760cfe22a872b5b858560f"
+  },
+  "8.7-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.7-rc-1-bin.zip",
+    "sha256": "4354bc6c46d1f1e1e37cb371b7c31556a4427eb3f57d03c23e5aae8aa606aedb"
+  },
+  "7.6.4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.6.4-bin.zip",
+    "sha256": "bed1da33cca0f557ab13691c77f38bb67388119e4794d113e051039b80af9bb1"
+  },
+  "8.6": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.6-bin.zip",
+    "sha256": "9631d53cf3e74bfa726893aee1f8994fee4e060c401335946dba2156f440f24c"
+  },
+  "8.6-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.6-rc-4-bin.zip",
+    "sha256": "1fb8db52c64b78eb27358dbe7119040090d227cb7de0436c0a657863c44b84c6"
+  },
+  "8.6-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.6-rc-3-bin.zip",
+    "sha256": "281b47656267472c9f853e7ed54002bfd435bfdcd292286709705324fd96f5dc"
+  },
+  "8.6-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.6-rc-2-bin.zip",
+    "sha256": "3a36cedd25c02335d991e3684e17985239150e24b744a8513d466543083ca250"
+  },
+  "8.6-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.6-rc-1-bin.zip",
+    "sha256": "a2da4ba435f6728b43554c5845f6f88f79589c3e0018c29ab33eb23bd781255b"
+  },
+  "8.6-milestone-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.6-milestone-1-bin.zip",
+    "sha256": "0bd40db84cb02df49bde4c3f45b6fa7267f78c075447cb70bac3cc79aed233b7"
+  },
+  "8.5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.5-bin.zip",
+    "sha256": "9d926787066a081739e8200858338b4a69e837c3a821a33aca9db09dd4a41026"
+  },
+  "8.5-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.5-rc-4-bin.zip",
+    "sha256": "614587c584e4d97a00368c8f5e6749d3e38345b7810bcfef1c7b8e002127b3a3"
+  },
+  "8.5-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.5-rc-3-bin.zip",
+    "sha256": "7207f771dac48bfe19d5990c8f1e7e5f3d5e8b2b98e09ad9a4c484af537f86b2"
+  },
+  "8.5-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.5-rc-2-bin.zip",
+    "sha256": "547d33f88a30b6d9666c79fde614b1e5a1a3e2f86216bc70c4c7e3421f0d4627"
+  },
+  "8.5-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.5-rc-1-bin.zip",
+    "sha256": "8c74462b1d83f8b17c4838c925fc4c46d1fbb4467b18b8a17f5cdaaee45b7f09"
+  },
+  "8.4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.4-bin.zip",
+    "sha256": "3e1af3ae886920c3ac87f7a91f816c0c7c436f276a6eefdb3da152100fef72ae"
+  },
+  "7.6.3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.6.3-bin.zip",
+    "sha256": "740c2e472ee4326c33bf75a5c9f5cd1e69ecf3f9b580f6e236c86d1f3d98cfac"
+  },
+  "8.4-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.4-rc-3-bin.zip",
+    "sha256": "cb1945fa73552ddf99cf32ec2fcd065771fcb6bf4a366b9408e79f9561601853"
+  },
+  "8.4-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.4-rc-2-bin.zip",
+    "sha256": "f7dca5ae44f1a45ee7950fa3e01418a664eaa04136ff594a99bebf7ee353a943"
+  },
+  "8.4-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.4-rc-1-bin.zip",
+    "sha256": "7eec87a597388fb67df02d0cc4f8bc566abd5adf5838dab1f4db0e83fa96bd4f"
+  },
+  "8.3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.3-bin.zip",
+    "sha256": "591855b517fc635b9e04de1d05d5e76ada3f89f5fc76f87978d1b245b4f69225"
+  },
+  "8.3-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.3-rc-4-bin.zip",
+    "sha256": "e4d88e0e636799134179376b5b058b0c691e58a1e9150c1d0a3898ffd402abaa"
+  },
+  "8.3-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.3-rc-3-bin.zip",
+    "sha256": "7af08310663d2849d8288d075cc2b74ca56dbacfa7ae60257c02aab0e8fe3111"
+  },
+  "8.3-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.3-rc-2-bin.zip",
+    "sha256": "222818637ce0a4cb82e322bf847ea49ac319aecdb363d81acabd9e81315d08f6"
+  },
+  "8.3-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.3-rc-1-bin.zip",
+    "sha256": "05d10c69f03ef1ed1569171e637fc1737828bceaf4bb4a1e87407a4a7d1c01e6"
+  },
+  "8.2.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.2.1-bin.zip",
+    "sha256": "03ec176d388f2aa99defcadc3ac6adf8dd2bce5145a129659537c0874dea5ad1"
+  },
+  "8.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.2-bin.zip",
+    "sha256": "38f66cd6eef217b4c35855bb11ea4e9fbc53594ccccb5fb82dfd317ef8c2c5a3"
+  },
+  "7.6.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.6.2-bin.zip",
+    "sha256": "a01b6587e15fe7ed120a0ee299c25982a1eee045abd6a9dd5e216b2f628ef9ac"
+  },
+  "8.2-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.2-rc-3-bin.zip",
+    "sha256": "345389a51e2ec796b1102c1ce513ac8f571978fd698e3fb10b6e0457091b6edc"
+  },
+  "8.2-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.2-rc-2-bin.zip",
+    "sha256": "0906569bf96e8ebefbc1aa56318c74aeafd9710455b2817c70d709c5d77785c4"
+  },
+  "8.2-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.2-rc-1-bin.zip",
+    "sha256": "f93546eb9b9ca57eb1d22f6e6d50a181e70720d4ba6d6af8fc96037fe4c8daf6"
+  },
+  "8.2-milestone-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.2-milestone-1-bin.zip",
+    "sha256": "4d06de8a5bfe1d53646d78cbe193ceae1d16b2145f522b3724b69d394c38e44f"
+  },
+  "8.1.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.1.1-bin.zip",
+    "sha256": "e111cb9948407e26351227dabce49822fb88c37ee72f1d1582a69c68af2e702f"
+  },
+  "8.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.1-bin.zip",
+    "sha256": "a62c5f99585dd9e1f95dab7b9415a0e698fa9dd1e6c38537faa81ac078f4d23e"
+  },
+  "8.1-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.1-rc-4-bin.zip",
+    "sha256": "75cbca1c36f3695ec15b39ac1f22103e5c84ba949b672497e70e9a99dc2ca195"
+  },
+  "8.1-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.1-rc-3-bin.zip",
+    "sha256": "4087d4c8eb90335f7c635082424cf34480721544ad36b595dcf8c143c653c149"
+  },
+  "8.1-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.1-rc-2-bin.zip",
+    "sha256": "c8e041dcbf7b747bf967b607942d8cf9a7cf992f4c05c90b1c8826901c183617"
+  },
+  "8.1-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.1-rc-1-bin.zip",
+    "sha256": "0a0143227c5a1699753e5e37f0c03bd784b3bd6c617d19e4f0c4df12c32b0fe2"
+  },
+  "8.0.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.0.2-bin.zip",
+    "sha256": "ff7bf6a86f09b9b2c40bb8f48b25fc19cf2b2664fd1d220cd7ab833ec758d0d7"
+  },
+  "7.6.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.6.1-bin.zip",
+    "sha256": "6147605a23b4eff6c334927a86ff3508cb5d6722cd624c97ded4c2e8640f1f87"
+  },
+  "6.9.4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.9.4-bin.zip",
+    "sha256": "3e240228538de9f18772a574e99a0ba959e83d6ef351014381acd9631781389a"
+  },
+  "8.0.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.0.1-bin.zip",
+    "sha256": "1b6b558be93f29438d3df94b7dfee02e794b94d9aca4611a92cdb79b6b88e909"
+  },
+  "8.0": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.0-bin.zip",
+    "sha256": "4159b938ec734a8388ce03f52aa8f3c7ed0d31f5438622545de4f83a89b79788"
+  },
+  "8.0-rc-5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.0-rc-5-bin.zip",
+    "sha256": "c01b46042141d23aea23ae5b09a12410a7996bac8c7fdf367547acd1b3c772d9"
+  },
+  "8.0-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.0-rc-4-bin.zip",
+    "sha256": "c1e2a61fd7257fdb869020808930487a69179488490a27664b06e472ecbf4ed7"
+  },
+  "8.0-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.0-rc-3-bin.zip",
+    "sha256": "9fb87bbe73f963a4c23daede3a5ed78e7ae770f3e980d3cb15d8df04518b542d"
+  },
+  "8.0-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.0-rc-2-bin.zip",
+    "sha256": "28ebe9afc20564bcdc39bfe36f6b60a373e40be2c3c307a0028b545b8ccf6ba0"
+  },
+  "8.0-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.0-rc-1-bin.zip",
+    "sha256": "d5bb29e784426547e4f455fbc0e6512d7a6a67d7d890cf24d601309287128b79"
+  },
+  "8.0-milestone-6": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.0-milestone-6-bin.zip",
+    "sha256": "5db785194950909ded9d2bcad3cd6874e7578bc93c11bf1aaa2d3e89aa8c9deb"
+  },
+  "8.0-milestone-5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.0-milestone-5-bin.zip",
+    "sha256": "0288540bc5ad21c4c921743464da8b7c8c8403750ddb20d050dc088282814664"
+  },
+  "8.0-milestone-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.0-milestone-4-bin.zip",
+    "sha256": "8ecb39c34977c75381299045cb238f6e4d3368e67b7221fcd9ac34ad344e4b63"
+  },
+  "7.6": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.6-bin.zip",
+    "sha256": "7ba68c54029790ab444b39d7e293d3236b2632631fb5f2e012bb28b4ff669e4b"
+  },
+  "7.6-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.6-rc-4-bin.zip",
+    "sha256": "eb93e4f8abf8db59d5bd1bbdd716f971d010bfc82fd01fe46905d499305718a0"
+  },
+  "7.6-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.6-rc-3-bin.zip",
+    "sha256": "21e2bf8e6c6ac310182c817776ffc6cca80142f5de4b2b4151f9f72b9ec35b50"
+  },
+  "7.6-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.6-rc-2-bin.zip",
+    "sha256": "1a0c892659d3eec2a33ab23857784ee3c9674b681cab068f67780da412d3f61f"
+  },
+  "8.0-milestone-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.0-milestone-3-bin.zip",
+    "sha256": "ad9460264653b6ed16cc8aebf9ee4dc12d1a301351323233eb905fce5d522ab4"
+  },
+  "7.6-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.6-rc-1-bin.zip",
+    "sha256": "458550f35b74ad9fbbdf3a1eb69c3f4faef7944cffa3d7fb91b46327875b0b17"
+  },
+  "6.9.3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.9.3-bin.zip",
+    "sha256": "dcf350b8ae1aa192fc299aed6efc77b43825d4fedb224c94118ae7faf5fb035d"
+  },
+  "8.0-milestone-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.0-milestone-2-bin.zip",
+    "sha256": "7fe8e8147543e80b4e1a11dfaf819d80d5bd32d1d922b11944e768a15c7c6a7b"
+  },
+  "8.0-milestone-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.0-milestone-1-bin.zip",
+    "sha256": "573715e1f25829fc3c2ad2e97578e9f8433050da87ddab5413e587663a621ebe"
+  },
+  "7.6-milestone-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.6-milestone-1-bin.zip",
+    "sha256": "9ca7bc6d09c52b365cc61f4ef9e0410f79f6122bc126786c76847b987a4b7cbe"
+  },
+  "7.5.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.5.1-bin.zip",
+    "sha256": "f6b8596b10cce501591e92f229816aa4046424f3b24d771751b06779d58c8ec4"
+  },
+  "7.5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.5-bin.zip",
+    "sha256": "cb87f222c5585bd46838ad4db78463a5c5f3d336e5e2b98dc7c0c586527351c2"
+  },
+  "7.5-rc-5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.5-rc-5-bin.zip",
+    "sha256": "c0bbfe570634634271f472aa30ec8d059a2e97b920be687d4c6446efbad9cc58"
+  },
+  "7.5-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.5-rc-4-bin.zip",
+    "sha256": "d98c4322d882e7b115fbf2a33ccd3e03677653b88c4f245e33cbea28b531a173"
+  },
+  "7.5-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.5-rc-3-bin.zip",
+    "sha256": "d10d8e6206d613313379834f3ed94ec7b781790f22edd44b0f2afa76708e2050"
+  },
+  "7.5-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.5-rc-2-bin.zip",
+    "sha256": "ba761aa1563f5d893d1a6e7ddca48bbdc4385fdd527974e6472b873b7eae9a32"
+  },
+  "7.5-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.5-rc-1-bin.zip",
+    "sha256": "8ba57a37e1e0b8c415e4d91718d51035223aa73131cf719a50c95a2a88269eb2"
+  },
+  "7.4.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.4.2-bin.zip",
+    "sha256": "29e49b10984e585d8118b7d0bc452f944e386458df27371b49b4ac1dec4b7fda"
+  },
+  "7.4.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.4.1-bin.zip",
+    "sha256": "e5444a57cda4a95f90b0c9446a9e1b47d3d7f69057765bfb54bd4f482542d548"
+  },
+  "7.4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.4-bin.zip",
+    "sha256": "8cc27038d5dbd815759851ba53e70cf62e481b87494cc97cfd97982ada5ba634"
+  },
+  "7.4-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.4-rc-2-bin.zip",
+    "sha256": "21491c9f0656e1529ccb39cbd587d01c33ba00d25f994b10240748ed0d45894a"
+  },
+  "7.4-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.4-rc-1-bin.zip",
+    "sha256": "b2a452bc37637aa453f0f3fb526240caed02878c47a9736f3059590605893bdb"
+  },
+  "7.3.3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.3.3-bin.zip",
+    "sha256": "b586e04868a22fd817c8971330fec37e298f3242eb85c374181b12d637f80302"
+  },
+  "7.3.3-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.3.3-rc-1-bin.zip",
+    "sha256": "07a1cd283d6cfe437eb08fe08936dc1af5f12946e67dc9f5e0a9f4b948ebfd3a"
+  },
+  "6.9.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.9.2-bin.zip",
+    "sha256": "8b356fd8702d5ffa2e066ed0be45a023a779bba4dd1a68fd11bc2a6bdc981e8f"
+  },
+  "7.3.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.3.2-bin.zip",
+    "sha256": "23b89f8eac363f5f4b8336e0530c7295c55b728a9caa5268fdd4a532610d5392"
+  },
+  "7.3.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.3.1-bin.zip",
+    "sha256": "9afb3ca688fc12c761a0e9e4321e4d24e977a4a8916c8a768b1fe05ddb4d6b66"
+  },
+  "7.3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.3-bin.zip",
+    "sha256": "de8f52ad49bdc759164f72439a3bf56ddb1589c4cde802d3cec7d6ad0e0ee410"
+  },
+  "7.3-rc-5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.3-rc-5-bin.zip",
+    "sha256": "dca199cee2553ec2497e840bf17969e56d4f99df661a693740b90de7ed0efbeb"
+  },
+  "7.3-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.3-rc-4-bin.zip",
+    "sha256": "488d250f4a1ae7744dcdf53fef0708f4a3e373023b8c134eda1be98aba4ed260"
+  },
+  "7.3-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.3-rc-3-bin.zip",
+    "sha256": "d57eb720003db00f85915c48ff4a5ac3c7e8a8a34bd34ced16ca0c7a31c10110"
+  },
+  "7.3-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.3-rc-2-bin.zip",
+    "sha256": "e6a7b81aa2fd2fa05efba3cf7d0c79d629b4d3b189aa4d4b57729933a211af79"
+  },
+  "7.3-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.3-rc-1-bin.zip",
+    "sha256": "d23a3a902b3c4a8cc6952ff236fb83279a266aec1854b01286ed04788a5d3d9a"
+  },
+  "6.9.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.9.1-bin.zip",
+    "sha256": "8c12154228a502b784f451179846e518733cf856efc7d45b2e6691012977b2fe"
+  },
+  "7.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.2-bin.zip",
+    "sha256": "f581709a9c35e9cb92e16f585d2c4bc99b2b1a5f85d2badbd3dc6bff59e1e6dd"
+  },
+  "7.2-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.2-rc-3-bin.zip",
+    "sha256": "12215a4146ab05309893c24fb7d0c32366ab6b548e2de84185d781ec639a6283"
+  },
+  "7.2-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.2-rc-2-bin.zip",
+    "sha256": "e7ed72455ea34234ffb244621d384c94e86c4adfcb0bc9e7c60ff4849ee69a77"
+  },
+  "7.2-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.2-rc-1-bin.zip",
+    "sha256": "fb0e3b9890cbe993819154d099b9cbcfdfccb4a6bf78f9b6189871e36663ce44"
+  },
+  "7.1.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.1.1-bin.zip",
+    "sha256": "bf8b869948901d422e9bb7d1fa61da6a6e19411baa7ad6ee929073df85d6365d"
+  },
+  "7.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.1-bin.zip",
+    "sha256": "2debee19271e1b82c6e41137d78e44e6e841035230a1a169ca47fd3fb09ed87b"
+  },
+  "7.1-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.1-rc-2-bin.zip",
+    "sha256": "caa8e323577de2fa421b47dded5278e7376c2bb6420221fbaf7908dfa9be8657"
+  },
+  "7.1-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.1-rc-1-bin.zip",
+    "sha256": "bac27c9878c4aa5b4b35f92105ca71de2ad39c323bc81117e611c65f2dffd941"
+  },
+  "7.0.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.0.2-bin.zip",
+    "sha256": "0e46229820205440b48a5501122002842b82886e76af35f0f3a069243dca4b3c"
+  },
+  "7.0.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.0.1-bin.zip",
+    "sha256": "dccda8aa069563c8ba2f6cdfd0777df0e34a5b4d15138ca8b9757e94f4e8a8cb"
+  },
+  "6.9": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.9-bin.zip",
+    "sha256": "765442b8069c6bee2ea70713861c027587591c6b1df2c857a23361512560894e"
+  },
+  "6.9-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.9-rc-2-bin.zip",
+    "sha256": "ce62238c6f84286a524590cb60706b7e6ecf00c3be5bddfa0c78345b94d0d127"
+  },
+  "6.9-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.9-rc-1-bin.zip",
+    "sha256": "0edea03c77d94adbbb02c77a8f20c73afb8caf206f364727be0517136f6fb347"
+  },
+  "7.0": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.0-bin.zip",
+    "sha256": "eb8b89184261025b0430f5b2233701ff1377f96da1ef5e278af6ae8bac5cc305"
+  },
+  "7.0-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.0-rc-2-bin.zip",
+    "sha256": "a5db0c919dfd184f7408ca761b438853b55ceab20d7ebb41ea3f72befd8bfb3f"
+  },
+  "7.0-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.0-rc-1-bin.zip",
+    "sha256": "12b807b5d6b065f05e0e47d8d00e9d55fe26d3cfc6cdb22d6825a93940edec90"
+  },
+  "7.0-milestone-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.0-milestone-3-bin.zip",
+    "sha256": "2e6b95b41001bd9f099b17a772c3308fe59356f8b7f995ffd7bf74400db0f13c"
+  },
+  "7.0-milestone-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.0-milestone-2-bin.zip",
+    "sha256": "a971b1cd25348e0dbeb56e4b7a7bb7dd06d7b092c166116f5247427f32fc4281"
+  },
+  "6.8.3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.8.3-bin.zip",
+    "sha256": "7faa7198769f872826c8ef4f1450f839ec27f0b4d5d1e51bade63667cbccd205"
+  },
+  "6.8.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.8.2-bin.zip",
+    "sha256": "8de6efc274ab52332a9c820366dd5cf5fc9d35ec7078fd70c8ec6913431ee610"
+  },
+  "7.0-milestone-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-7.0-milestone-1-bin.zip",
+    "sha256": "627fc72166c8a6ae9bf3e6d9b59c0a8cc4efe5cd5417a2fc525b5c7d05409aa5"
+  },
+  "6.8.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.8.1-bin.zip",
+    "sha256": "fd591a34af7385730970399f473afabdb8b28d57fd97d6625c388d090039d6fd"
+  },
+  "6.8": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.8-bin.zip",
+    "sha256": "e2774e6fb77c43657decde25542dea710aafd78c4022d19b196e7e78d79d8c6c"
+  },
+  "6.8-rc-5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.8-rc-5-bin.zip",
+    "sha256": "569bebddc0c174475cc25d708e54af793f25fd37e5a72e53674f8ef628b6ddfd"
+  },
+  "6.8-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.8-rc-4-bin.zip",
+    "sha256": "6cb03b71767b169eda987338091172cbc84eb0cd53a93c17e6661688411e267e"
+  },
+  "6.8-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.8-rc-3-bin.zip",
+    "sha256": "6c929633a439d248413d3d1bff477195ee662ccadc6fdc31f6f50f8059a2be36"
+  },
+  "6.8-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.8-rc-1-bin.zip",
+    "sha256": "155bafc3a46f81b7af481ad7dba391a3b9c12818f27da8684178ffeaa40e6d7e"
+  },
+  "6.7.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.7.1-bin.zip",
+    "sha256": "3239b5ed86c3838a37d983ac100573f64c1f3fd8e1eb6c89fa5f9529b5ec091d"
+  },
+  "6.8-milestone-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.8-milestone-3-bin.zip",
+    "sha256": "47fa64cc30ab93a78901bdae68f33410da070c46f750f7e7978a6fb2a7b7ab50"
+  },
+  "6.8-milestone-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.8-milestone-2-bin.zip",
+    "sha256": "0e15751be3270c3cbff10742cc259cbd3b92f379204d645397541f676b0667f6"
+  },
+  "6.7": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.7-bin.zip",
+    "sha256": "8ad57759019a9233dc7dc4d1a530cefe109dc122000d57f7e623f8cf4ba9dfc4"
+  },
+  "6.8-milestone-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.8-milestone-1-bin.zip",
+    "sha256": "cddca6851af8503eb7c8bf5ba778c4c9e878a7b6cf74708fda09cae1952656fc"
+  },
+  "6.7-rc-5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.7-rc-5-bin.zip",
+    "sha256": "c7c33aa33d32e4bd68df71deb5c6d00f2c4675d88b8a14748661196a717dfe2c"
+  },
+  "6.7-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.7-rc-4-bin.zip",
+    "sha256": "01b4f3804b6c3f15ff3eb39e56efae55e265b6007c9fa3bd58b83b2dc4697dc4"
+  },
+  "6.7-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.7-rc-3-bin.zip",
+    "sha256": "f4a236ffc777d6a4c25cdf7b1c45fe7024910afc65c88a9c9027aab9a765d295"
+  },
+  "6.7-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.7-rc-2-bin.zip",
+    "sha256": "34d87e1fe52cb50b9670cd7c817843273d40afa572a2d4f1b6f866daedfee8af"
+  },
+  "6.7-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.7-rc-1-bin.zip",
+    "sha256": "77822eaca04dd0e1c59065877ab22b96f0b0c5d5a65df8f63a58ae31f8938c8a"
+  },
+  "6.6.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.6.1-bin.zip",
+    "sha256": "7873ed5287f47ca03549ab8dcb6dc877ac7f0e3d7b1eb12685161d10080910ac"
+  },
+  "6.6": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.6-bin.zip",
+    "sha256": "e6f83508f0970452f56197f610d13c5f593baaf43c0e3c6a571e5967be754025"
+  },
+  "6.6-rc-6": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.6-rc-6-bin.zip",
+    "sha256": "5d24a11971f2324bf55899e9c5cd84e85fe94c63ff0456b10a53f93f7a14d288"
+  },
+  "6.6-rc-5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.6-rc-5-bin.zip",
+    "sha256": "076f1c7d463cb8fa5fec51e1818e18fed9e6c5c6dc06ffa6325eef07a9746661"
+  },
+  "6.6-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.6-rc-4-bin.zip",
+    "sha256": "f743d14deb36c6f1cfdf0480452e369d3098f63034c4e2c92fc1154740cb7bce"
+  },
+  "6.6-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.6-rc-3-bin.zip",
+    "sha256": "030078a5900466f172f1e59e0f3351280328693929de08ab10747103fb6d9faf"
+  },
+  "6.6-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.6-rc-2-bin.zip",
+    "sha256": "c981f305803093525a64aeee8adb356ef2b909b01b44f11a70c6ed6d6ea92fc5"
+  },
+  "6.6-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.6-rc-1-bin.zip",
+    "sha256": "2253ab246976353b225002ecba04859b5dbad0620f57052ef057fdcfcb888c5c"
+  },
+  "6.6-milestone-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.6-milestone-3-bin.zip",
+    "sha256": "c85644cecb8276ee7621ed7b7309897f5927b175a3e658b54d25889aaf7cfeb3"
+  },
+  "6.5.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.5.1-bin.zip",
+    "sha256": "50a7d30529fa939721fe9268a0205142f3f2302bcac5fb45b27a3902e58db54a"
+  },
+  "6.6-milestone-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.6-milestone-2-bin.zip",
+    "sha256": "c7a17a7816572ec0ec3632fcae4e2d877db03cb53b9127e9f5ab60529e1699e2"
+  },
+  "6.6-milestone-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.6-milestone-1-bin.zip",
+    "sha256": "287d42827c2da3a27c8826cb791af3788ac7ed3bceed415125512c4140706c14"
+  },
+  "6.5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.5-bin.zip",
+    "sha256": "23e7d37e9bb4f8dabb8a3ea7fdee9dd0428b9b1a71d298aefd65b11dccea220f"
+  },
+  "6.5-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.5-rc-1-bin.zip",
+    "sha256": "fd64fa437cb3dfb53a037fff72cbe24e1280bc83ceb3bd35b2f96637ab6efeff"
+  },
+  "6.4.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.4.1-bin.zip",
+    "sha256": "e58cdff0cee6d9b422dcd08ebeb3177bc44eaa09bd9a2e838ff74c408fe1cbcd"
+  },
+  "6.5-milestone-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.5-milestone-2-bin.zip",
+    "sha256": "3e269c619d1d19cbbcbd74165487a973d8ad307def9552883e601a93b60ced4b"
+  },
+  "6.5-milestone-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.5-milestone-1-bin.zip",
+    "sha256": "7e6ac72a36af92474ee8c4ddae73cbc3cc5e6be33fb088ff6668465b25addcd9"
+  },
+  "6.4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.4-bin.zip",
+    "sha256": "b888659f637887e759749f6226ddfcb1cb04f828c58c41279de73c463fdbacc9"
+  },
+  "6.4-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.4-rc-4-bin.zip",
+    "sha256": "7307d73b87b4e2416eeb6a376ac7f1bcce6c7cff8eb87e6dca2e130f0016858b"
+  },
+  "6.4-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.4-rc-3-bin.zip",
+    "sha256": "b80df15a8398f020e5689233d912704e42c9dc567cd32c539a3c59f8616e8954"
+  },
+  "6.4-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.4-rc-2-bin.zip",
+    "sha256": "a74a1d4ff45e7b6f42c7384546bba2620e23a1172d4b3dcfc1418000ad5d793c"
+  },
+  "6.4-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.4-rc-1-bin.zip",
+    "sha256": "f8e14fc40ebc468d578601cfeaef402844048ff8fc727d452e6b28922c53459c"
+  },
+  "6.3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.3-bin.zip",
+    "sha256": "038794feef1f4745c6347107b6726279d1c824f3fc634b60f86ace1e9fbd1768"
+  },
+  "6.3-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.3-rc-4-bin.zip",
+    "sha256": "eb17f321c7892267869541962484de3c375b12dfe98dfe2a55139996d1e71aec"
+  },
+  "6.3-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.3-rc-3-bin.zip",
+    "sha256": "492b013ee962016f83a49defd221bd1fdc80003a9d50a9ad3c5f869c8f48c864"
+  },
+  "6.3-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.3-rc-2-bin.zip",
+    "sha256": "7431e8b723dbe8fea36b635ec578a676df5458a21faa7aaabc8279dc5f9c86dc"
+  },
+  "6.3-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.3-rc-1-bin.zip",
+    "sha256": "b72707eb36a9e6fffb8dbe1653c59d8cbd7e4b839f4ef6131c46629dd9fa5686"
+  },
+  "6.2.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.2.2-bin.zip",
+    "sha256": "0f6ba231b986276d8221d7a870b4d98e0df76e6daf1f42e7c0baec5032fb7d17"
+  },
+  "6.2.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.2.1-bin.zip",
+    "sha256": "a68ca7ba57f3404c3f6fc1f70a02d3a7d78652e6b46bbfaff83fc9a17168c279"
+  },
+  "6.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.2-bin.zip",
+    "sha256": "b93a5f30d01195ec201e240f029c8b42d59c24086b8d1864112c83558e23cf8a"
+  },
+  "6.2-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.2-rc-3-bin.zip",
+    "sha256": "3e8db98ac4398938ffcdb95241518eadf8858cee65f951f5f75e22cf5efb4cc2"
+  },
+  "6.2-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.2-rc-2-bin.zip",
+    "sha256": "cf53ad90046348ab326f07b77f7362d6e8f101125ddd815e46df2f296ed2a0ee"
+  },
+  "6.2-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.2-rc-1-bin.zip",
+    "sha256": "4e40b36d619f5e7a9eb9a97d6652c062a13df828995be79137b7215c062b9139"
+  },
+  "6.1.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.1.1-bin.zip",
+    "sha256": "9d94e6e4a28ad328072ef6e56bce79a810494ae756751fdcedffdeaf27c093b1"
+  },
+  "6.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.1-bin.zip",
+    "sha256": "d0c43d14e1c70a48b82442f435d06186351a2d290d72afd5b8866f15e6d7038a"
+  },
+  "6.1-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.1-rc-3-bin.zip",
+    "sha256": "f150eccc7ab05d14bd89a04cdfc4de94e320d5962828e69d10c43bfff12d176d"
+  },
+  "6.1-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.1-rc-2-bin.zip",
+    "sha256": "f451724e3f6157893e6efd98f91e26fbed1bac89d43fd248d4535cc918b83ee7"
+  },
+  "6.1-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.1-rc-1-bin.zip",
+    "sha256": "8262a8509cdd281ab19b87c79f03d4a5d0629f2a03a28c284203431f12c70960"
+  },
+  "6.1-milestone-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.1-milestone-3-bin.zip",
+    "sha256": "31b51f1c7db4aa3927c3621a5732e777f7655f7b4d769225337c251cfbb8cdf6"
+  },
+  "6.1-milestone-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.1-milestone-2-bin.zip",
+    "sha256": "3c2040ce128a323e96163eb2e87ac7a50475756f767fa7a139e0edc34447548e"
+  },
+  "6.1-milestone-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.1-milestone-1-bin.zip",
+    "sha256": "b13a85987bf9b2b8aa7c24a9b8e68c46a32acb6b623477ac457bca8b0ea9fc04"
+  },
+  "6.0.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.0.1-bin.zip",
+    "sha256": "d364b7098b9f2e58579a3603dc0a12a1991353ac58ed339316e6762b21efba44"
+  },
+  "6.0": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.0-bin.zip",
+    "sha256": "5a3578b9f0bb162f5e08cf119f447dfb8fa950cedebb4d2a977e912a11a74b91"
+  },
+  "6.0-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.0-rc-3-bin.zip",
+    "sha256": "d30c88a6644e28ba5a45923ae3a4850d55ba0f35dd14a3108595359cdfb0401e"
+  },
+  "5.6.4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.6.4-bin.zip",
+    "sha256": "1f3067073041bc44554d0efe5d402a33bc3d3c93cc39ab684f308586d732a80d"
+  },
+  "6.0-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.0-rc-2-bin.zip",
+    "sha256": "dbb366685bd15d08e592e384744bc19715d00203adeacf43dcf4c8c3a46b6b01"
+  },
+  "6.0-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-6.0-rc-1-bin.zip",
+    "sha256": "e73ab0c91f71e051f9798c6c89e0b9c0ecc95f0877e683554425c68835998509"
+  },
+  "5.6.3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.6.3-bin.zip",
+    "sha256": "60a6d8f687e3e7a4bc901cc6bc3db190efae0f02f0cc697e323e0f9336f224a3"
+  },
+  "5.6.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.6.2-bin.zip",
+    "sha256": "32fce6628848f799b0ad3205ae8db67d0d828c10ffe62b748a7c0d9f4a5d9ee0"
+  },
+  "5.6.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.6.1-bin.zip",
+    "sha256": "0986244820e4a35d32d91df2ec4b768b5ba5d6c8246753794f85159f9963ec12"
+  },
+  "5.6": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.6-bin.zip",
+    "sha256": "15c02ef5dd3631ec02ac52e8725703e0285d9a7eecbf4e5939aa9e924604d01d"
+  },
+  "5.6-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.6-rc-2-bin.zip",
+    "sha256": "26c4451c7297dd160314fe509273f97c4f1ee68527dc3fda3d87f0973df8eecb"
+  },
+  "5.6-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.6-rc-1-bin.zip",
+    "sha256": "e09932eeca0e94f08bf81b1b58bc199ee8b8044d553c9ed5e1a906b641ce9c90"
+  },
+  "5.5.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.5.1-bin.zip",
+    "sha256": "222a03fcf2fcaf3691767ce9549f78ebd4a77e73f9e23a396899fb70b420cd00"
+  },
+  "5.5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.5-bin.zip",
+    "sha256": "8d78b2ed63e7f07ad169c1186d119761c4773e681f332cfe1901045b1b0141bc"
+  },
+  "5.5-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.5-rc-4-bin.zip",
+    "sha256": "8d0844d974a2da25b741382094cb63d035ad2e9572b978e63bdceb927231e9ea"
+  },
+  "5.5-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.5-rc-3-bin.zip",
+    "sha256": "1d3f37c0b53084ba5e6642691a9b9fb5f588a801f8ca613f15d82042b2c7dad8"
+  },
+  "5.5-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.5-rc-2-bin.zip",
+    "sha256": "440429bd2195030d944b8d148c0d056edb2463813a04132ee7bf7123b471858a"
+  },
+  "5.5-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.5-rc-1-bin.zip",
+    "sha256": "7fe31cb63223b292fae0c42b124de3d8d028a3567992e9caf08a240c10d48f6c"
+  },
+  "5.4.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.4.1-bin.zip",
+    "sha256": "7bdbad1e4f54f13c8a78abc00c26d44dd8709d4aedb704d913fb1bb78ac025dc"
+  },
+  "5.4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.4-bin.zip",
+    "sha256": "c8c17574245ecee9ed7fe4f6b593b696d1692d1adbfef425bef9b333e3a0e8de"
+  },
+  "5.4-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.4-rc-1-bin.zip",
+    "sha256": "86dbc7499f0cc0810c2ca8683b5adcd0dd7841bfe14544401de0e49b885542a2"
+  },
+  "5.3.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.3.1-bin.zip",
+    "sha256": "1c59a17a054e9c82f0dd881871c9646e943ec4c71dd52ebc6137d17f82337436"
+  },
+  "5.3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.3-bin.zip",
+    "sha256": "bed2bdd3955be5a09ca7e0201e9d131f194f7f6c466e1795a733733ccfb09f25"
+  },
+  "5.3-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.3-rc-3-bin.zip",
+    "sha256": "63b7114caa8629f5dc3074aab09b87476fbfba548ea20aefe97068287621acb7"
+  },
+  "5.3-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.3-rc-2-bin.zip",
+    "sha256": "4110201a819b28600bfe06ef02950c6b749616c2197ed0da2514451a378c709b"
+  },
+  "5.3-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.3-rc-1-bin.zip",
+    "sha256": "5650e801e191cc8f12f6ea3f27e081ad0a0012d44d53ba226b7c148d3282956c"
+  },
+  "5.2.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.2.1-bin.zip",
+    "sha256": "748c33ff8d216736723be4037085b8dc342c6a0f309081acf682c9803e407357"
+  },
+  "5.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.2-bin.zip",
+    "sha256": "ff322863250159595e93b5a4d17a6f0d21c59a1a0497c1e1cf1d53826485503f"
+  },
+  "5.2-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.2-rc-1-bin.zip",
+    "sha256": "9e882e3899d7ef999f862f71a4a7494505a9a3f87c1cea427a3ae44941b94c70"
+  },
+  "5.1.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.1.1-bin.zip",
+    "sha256": "4953323605c5d7b89e97d0dc7779e275bccedefcdac090aec123375eae0cc798"
+  },
+  "5.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.1-bin.zip",
+    "sha256": "7506638a380092a0406364c79d6c87d03d23017fc25a5770379d1ce23c3fcd4d"
+  },
+  "5.1-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.1-rc-3-bin.zip",
+    "sha256": "aba05e1d60c4b976e8bb9ea1911aaa8b19783cdc63e788320fcb75e9613ba45d"
+  },
+  "5.1-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.1-rc-2-bin.zip",
+    "sha256": "a5f43f07530f2e02f4df3b0fe14300586d6302ad4462d0ed95971e6bf107b66a"
+  },
+  "5.1-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.1-rc-1-bin.zip",
+    "sha256": "160b5b497b076c8d490fd7f2de6d389db4972dc495d5b86e5713ebdf63bf47fd"
+  },
+  "4.10.3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.10.3-bin.zip",
+    "sha256": "8626cbf206b4e201ade7b87779090690447054bc93f052954c78480fa6ed186e"
+  },
+  "5.1-milestone-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.1-milestone-1-bin.zip",
+    "sha256": "f7f38376ef3cf461eaf4da9d7abf4a9a4325cbbc93fbe19efbdb2f35c4171757"
+  },
+  "5.0": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.0-bin.zip",
+    "sha256": "6157ac9f3410bc63644625b3b3e9e96c963afd7910ae0697792db57813ee79a6"
+  },
+  "5.0-rc-5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.0-rc-5-bin.zip",
+    "sha256": "369ff446973f5309c550b9ef543d5cdf45470a0db20e3f6c00dcca122faa045d"
+  },
+  "5.0-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.0-rc-4-bin.zip",
+    "sha256": "414d6ffa6a4ec14355eb78b7577576ab63d07658ac640ec41b5e63b573400de0"
+  },
+  "5.0-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.0-rc-3-bin.zip",
+    "sha256": "684a20ad90fc0d133c7b03da392c21e2a211b5df32faacb9f72e6847628aea20"
+  },
+  "5.0-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.0-rc-2-bin.zip",
+    "sha256": "6585344d4a6047bcd19894c9d75e32d62a0a908b6886c3f21049b7d9e3a14d02"
+  },
+  "5.0-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.0-rc-1-bin.zip",
+    "sha256": "6494ddd4191b99d1a5e8d31fc179d1cab68631ebbac9adfcaa229f56496c5427"
+  },
+  "5.0-milestone-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-5.0-milestone-1-bin.zip",
+    "sha256": "0c4e5366b479934844da39c156c20d509f6b2c40b978c10598221fd591c0cf57"
+  },
+  "4.10.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.10.2-bin.zip",
+    "sha256": "b49c6da1b2cb67a0caf6c7480630b51c70a11ca2016ff2f555eaeda863143a29"
+  },
+  "4.10.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.10.1-bin.zip",
+    "sha256": "e53ce3a01cf016b5d294eef20977ad4e3c13e761ac1e475f1ffad4c6141a92bd"
+  },
+  "4.10": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.10-bin.zip",
+    "sha256": "248cfd92104ce12c5431ddb8309cf713fe58de8e330c63176543320022f59f18"
+  },
+  "4.10-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.10-rc-3-bin.zip",
+    "sha256": "4e5f3a2e0c4f1f0313211253d799dd66570afdf0ebb3d785ee97a97d942c632d"
+  },
+  "4.10-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.10-rc-2-bin.zip",
+    "sha256": "e90d3c32910e259814bcca82b3911172ecca1ff1ab5ed69b4de3c1df8b378b40"
+  },
+  "4.10-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.10-rc-1-bin.zip",
+    "sha256": "f68220df44d943418a49aecccf0d5b8547f52201926bc8f13c2c3e5b81eb763a"
+  },
+  "4.9": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.9-bin.zip",
+    "sha256": "e66e69dce8173dd2004b39ba93586a184628bc6c28461bc771d6835f7f9b0d28"
+  },
+  "4.9-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.9-rc-2-bin.zip",
+    "sha256": "651e3d8c41221e7e767f23a5ead0bbe06ada6abec017e7b6ce99f3cbcb4808e5"
+  },
+  "4.9-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.9-rc-1-bin.zip",
+    "sha256": "52e32ccfa4edc679e6bfad93e0f9fcd6358dc39dfb7bf8f2e1222b8d18ead359"
+  },
+  "4.8.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.8.1-bin.zip",
+    "sha256": "af334d994b5e69e439ab55b5d2b7d086da5ea6763d78054f49f147b06370ed71"
+  },
+  "4.8": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.8-bin.zip",
+    "sha256": "f3e29692a8faa94eb0b02ebf36fa263a642b3ae8694ef806c45c345b8683f1ba"
+  },
+  "4.8-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.8-rc-3-bin.zip",
+    "sha256": "459195ae148201ef4c1235cfca08aaa20b1293f280fb643c666499a58e228dac"
+  },
+  "4.8-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.8-rc-2-bin.zip",
+    "sha256": "a89682f4c2ec77a2b49ca139628e95de7b7648552643edd2ea3988cbd0a0a07b"
+  },
+  "4.8-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.8-rc-1-bin.zip",
+    "sha256": "c6ba15fbb51ac0c8b370dfd3a239c3b48b1cee5bbfdf5597cb586a216f8690b0"
+  },
+  "4.7": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.7-bin.zip",
+    "sha256": "fca5087dc8b50c64655c000989635664a73b11b9bd3703c7d6cabd31b7dcdb04"
+  },
+  "4.7-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.7-rc-2-bin.zip",
+    "sha256": "b9289ecb1f9ce8bc325ce71805ee779f3e03da22e394deced6e682cd6297d110"
+  },
+  "4.7-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.7-rc-1-bin.zip",
+    "sha256": "fbf286558c27f6026c0da6daa57750ce1539e6535227e6738a6f4909dc130d12"
+  },
+  "4.6": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.6-bin.zip",
+    "sha256": "98bd5fd2b30e070517e03c51cbb32beee3e2ee1a84003a5a5d748996d4b1b915"
+  },
+  "4.6-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.6-rc-2-bin.zip",
+    "sha256": "1fab26f72fe5f52d5773c2cf4bb0beaec60c3b24a5f49d09be5a092a7473bfdd"
+  },
+  "4.6-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.6-rc-1-bin.zip",
+    "sha256": "f8ed6380bcc3db71ec524950aa53d78ccf1da0ead900f379f3573dfef60500c9"
+  },
+  "4.5.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.5.1-bin.zip",
+    "sha256": "3e2ea0d8b96605b7c528768f646e0975bd9822f06df1f04a64fd279b1a17805e"
+  },
+  "4.5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.5-bin.zip",
+    "sha256": "03f2a43a314ff0fb843a85ef68078e06d181c4549c1e5fb983f289382b59b5e3"
+  },
+  "4.5-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.5-rc-2-bin.zip",
+    "sha256": "401363cc3491055b878bba54463129c3bb0d3a76e337e5e515729a6b6fa4c883"
+  },
+  "4.5-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.5-rc-1-bin.zip",
+    "sha256": "fa8f4721d121d4501871877a9c1bf83db5ba44bb0ee9dd177a4981c11cede7c6"
+  },
+  "4.4.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.4.1-bin.zip",
+    "sha256": "e7cf7d1853dfc30c1c44f571d3919eeeedef002823b66b6a988d27e919686389"
+  },
+  "4.4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.4-bin.zip",
+    "sha256": "fa4873ae2c7f5e8c02ec6948ba95848cedced6134772a0169718eadcb39e0a2f"
+  },
+  "4.4-rc-6": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.4-rc-6-bin.zip",
+    "sha256": "03480998491b94e27d95759c47ae6ac864e95b9db17cd5890cd37ff536431ba0"
+  },
+  "4.4-rc-5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.4-rc-5-bin.zip",
+    "sha256": "b52d338f285dd255f3abf6bcd3e0b447cc62aa8dc83a281c42f8ec1aec10dc89"
+  },
+  "4.4-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.4-rc-4-bin.zip",
+    "sha256": "d663fe846e3b2e30285b578e0bb957c4fb846cca0f36694ab32d5e5ba25c0cb8"
+  },
+  "4.4-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.4-rc-3-bin.zip",
+    "sha256": "607b5c3493dc78da8d6207edd43c680132d9b69912fa1de2fa42f24be72f30cd"
+  },
+  "4.4-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.4-rc-2-bin.zip",
+    "sha256": "939ec641887df3677dd3ac1ed8cb6e2815dae0f33bf36db8ae64a71b4c32f8f8"
+  },
+  "4.4-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.4-rc-1-bin.zip",
+    "sha256": "3b5d35b41d5807f6471e90ca81e4d1bf4fee48deca7d99e0e579f758b4db85b1"
+  },
+  "4.3.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.3.1-bin.zip",
+    "sha256": "15ebe098ce0392a2d06d252bff24143cc88c4e963346582c8d88814758d93ac7"
+  },
+  "4.3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.3-bin.zip",
+    "sha256": "8dcbf44eef92575b475dcb1ce12b5f19d38dc79e84c662670248dc8b8247654c"
+  },
+  "4.3-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.3-rc-4-bin.zip",
+    "sha256": "6615d3d67b7c5ca936ef34464495aeac4145dcac8df65d8fdd20f4085e48fbb6"
+  },
+  "4.3-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.3-rc-3-bin.zip",
+    "sha256": "3e3fad053c2d14a7dbe49006d09034576517e1f6c3f15aca7e5c594f17d08bbf"
+  },
+  "4.3-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.3-rc-2-bin.zip",
+    "sha256": "e55a78b879a5d45840003a1692fb00d1d1780298bcd696c7f10370e7922aad4f"
+  },
+  "4.3-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.3-rc-1-bin.zip",
+    "sha256": "a2fbaa80f98b59509e3f956c9fdaeb593516ea633ce80946735fa7cb7dd74a55"
+  },
+  "4.2.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.2.1-bin.zip",
+    "sha256": "b551cc04f2ca51c78dd14edb060621f0e5439bdfafa6fd167032a09ac708fbc0"
+  },
+  "4.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.2-bin.zip",
+    "sha256": "515dd63d32e55a9c05667809c5e40a947529de3054444ad274b3b75af5582eae"
+  },
+  "4.2-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.2-rc-2-bin.zip",
+    "sha256": "e32c378a7e49e074647c59a2a618444db3871ca05e4a151122041252f2dcb640"
+  },
+  "4.2-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.2-rc-1-bin.zip",
+    "sha256": "7d4f7ebe327047eeb713566de36b466f6f966aa9fd471d0b5a89f76337845829"
+  },
+  "4.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.1-bin.zip",
+    "sha256": "d55dfa9cfb5a3da86a1c9e75bb0b9507f9a8c8c100793ccec7beb6e259f9ed43"
+  },
+  "4.1-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.1-rc-2-bin.zip",
+    "sha256": "c3ea162956646b681bdbf697e45737e654492c825b7958892b44be286a4594f6"
+  },
+  "4.0.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.0.2-bin.zip",
+    "sha256": "79ac421342bd11f6a4f404e0988baa9c1f5fabf07e3c6fa65b0c15c1c31dda22"
+  },
+  "4.1-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.1-rc-1-bin.zip",
+    "sha256": "782866e286d0e7d527f8110337e96e7e0c886376d9a35966d74ca4024ede7153"
+  },
+  "4.0.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.0.1-bin.zip",
+    "sha256": "d717e46200d1359893f891dab047fdab98784143ac76861b53c50dbd03b44fd4"
+  },
+  "4.1-milestone-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.1-milestone-1-bin.zip",
+    "sha256": "48edfe37620b5de2fd6e111a65b384dd730c377890c26a01a1ae55ae0220abc1"
+  },
+  "3.5.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.5.1-bin.zip",
+    "sha256": "8dce35f52d4c7b4a4946df73aa2830e76ba7148850753d8b5e94c5dc325ceef8"
+  },
+  "4.0": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.0-bin.zip",
+    "sha256": "56bd2dde29ba2a93903c557da1745cafd72cdd8b6b0b83c05a40ed7896b79dfe"
+  },
+  "4.0-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.0-rc-3-bin.zip",
+    "sha256": "f4229169204b98dbc2718386b36538cef2fd28e249aec4e9472eb820a93beeb3"
+  },
+  "4.0-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.0-rc-2-bin.zip",
+    "sha256": "35f92e48b73f6f6d99997094c7dec298fbdae5a3ee989805c6cde0abe24ff6fe"
+  },
+  "4.0-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.0-rc-1-bin.zip",
+    "sha256": "19d7be3fd349bcf0d36d5a29ded4dd704e5d391e8e8751f32d5bb199636df053"
+  },
+  "4.0-milestone-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.0-milestone-2-bin.zip",
+    "sha256": "87120d217d97704702136984e51002d979fec49ee2ff1524ed2769d98dd1f5c5"
+  },
+  "4.0-milestone-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-4.0-milestone-1-bin.zip",
+    "sha256": "56a98b39db79d947e9227646b3fc72376bdc3daf09ce4d885973510057841738"
+  },
+  "3.5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.5-bin.zip",
+    "sha256": "0b7450798c190ff76b9f9a3d02e18b33d94553f708ebc08ebe09bdf99111d110"
+  },
+  "3.5-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.5-rc-3-bin.zip",
+    "sha256": "add85f5073e3051a23008e9d371fc49bbb6719b503c9f43a7cf6ab61337e05b9"
+  },
+  "3.5-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.5-rc-2-bin.zip",
+    "sha256": "c23b319547d87b35f16d0bd251a13495b8bc26fe8c7356f678bae766bb5f6ab7"
+  },
+  "3.5-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.5-rc-1-bin.zip",
+    "sha256": "ed17b488dcc8969503aabcce7e1462fb99518e2dddd6e766b0a18e99685dad50"
+  },
+  "3.4.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.4.1-bin.zip",
+    "sha256": "db1db193d479cc1202be843f17e4526660cfb0b21b57d62f3a87f88c878af9b2"
+  },
+  "3.4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.4-bin.zip",
+    "sha256": "72d0cd4dcdd5e3be165eb7cd7bbd25cf8968baf400323d9ab1bba622c3f72205"
+  },
+  "3.4-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.4-rc-3-bin.zip",
+    "sha256": "c492b318d35f65ba1038289067e04d08598d85e0ea98b33430effd0f1b04bc7c"
+  },
+  "3.4-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.4-rc-2-bin.zip",
+    "sha256": "a6184aab4ea11f0264711e989dabc4486045bc6aaaa30110fff3fd4b5250061f"
+  },
+  "3.4-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.4-rc-1-bin.zip",
+    "sha256": "c8323ca48a9f3e7993bce566e3edc464f459a5a8bfcedbd6ce7e8b7d0c45fd46"
+  },
+  "3.3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.3-bin.zip",
+    "sha256": "c58650c278d8cf0696cab65108ae3c8d95eea9c1938e0eb8b997095d5ca9a292"
+  },
+  "3.3-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.3-rc-1-bin.zip",
+    "sha256": "845135efa934b533f732cb96a34538f10c5703cea39474c148e18ac69d4db49f"
+  },
+  "3.2.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.2.1-bin.zip",
+    "sha256": "9843a3654d3e57dce54db06d05f18b664b95c22bf90c6becccb61fc63ce60689"
+  },
+  "3.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.2-bin.zip",
+    "sha256": "5321b36837226dc0377047a328f12010f42c7bf88ee4a3b1cee0c11040082935"
+  },
+  "3.2-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.2-rc-3-bin.zip",
+    "sha256": "dadae3f8ff6c60637ac749693a074ae181315a7f43c5a6d313565371cbcab740"
+  },
+  "3.2-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.2-rc-2-bin.zip",
+    "sha256": "45e362f471b9d112f820f3d4cf3901f9c5b112efb309324963078f53a80cff40"
+  },
+  "3.2-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.2-rc-1-bin.zip",
+    "sha256": "fe2ec80d91ab79ddb72e30d25e3646091fafa7cac379c1f46b743bcad52ed4f3"
+  },
+  "3.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.1-bin.zip",
+    "sha256": "c7de3442432253525902f7e8d7eac8b5fd6ce1623f96d76916af6d0e383010fc"
+  },
+  "3.1-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.1-rc-1-bin.zip",
+    "sha256": "9d67811a2dee405c920e6bced2d687142e2378eb33c3af960bdbaef39bcb2485"
+  },
+  "3.0": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.0-bin.zip",
+    "sha256": "39c906941a474444afbddc38144ed44166825acb0a57b0551dddb04bbf157f80"
+  },
+  "3.0-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.0-rc-2-bin.zip",
+    "sha256": "874e3bb85a85961f17cb371cd1291f9c0015bcc1e4bcc9df6e2c29b249438a73"
+  },
+  "3.0-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.0-rc-1-bin.zip",
+    "sha256": "98c51e7f465b61d17578098f9ca8dc081014a551fb4dff66cce52fbfcb23376f"
+  },
+  "2.14.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.14.1-bin.zip",
+    "sha256": "cfc61eda71f2d12a572822644ce13d2919407595c2aec3e3566d2aab6f97ef39"
+  },
+  "2.14.1-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.14.1-rc-2-bin.zip",
+    "sha256": "784175796a5dc8180c90f3e26249e858f62d400aaec3db81153992f9d749cda6"
+  },
+  "2.14.1-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.14.1-rc-1-bin.zip",
+    "sha256": "c20590dc930c78d21218d10ddf2c637ca0a2ee895e9c3476b670789aa60b5da4"
+  },
+  "3.0-milestone-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.0-milestone-2-bin.zip",
+    "sha256": "5c3e8e9a38c92ae85e05df609c6c1b6f51e5a08b39a26d61bd8a7044268135e7"
+  },
+  "2.14": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.14-bin.zip",
+    "sha256": "993b4f33b652c689e9721917d8e021cab6bbd3eae81b39ab2fd46fdb19a928d5"
+  },
+  "2.14-rc-6": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.14-rc-6-bin.zip",
+    "sha256": "f26dd25087dc68bd41ab5fdf31532eaf682c3b2693052d4cf9f7c727e2a47231"
+  },
+  "3.0-milestone-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-3.0-milestone-1-bin.zip",
+    "sha256": "dfff9f7fbf75d025cf5b4f7b61ea9e24757f74a6934ba7249658e7e2de9d329f"
+  },
+  "2.14-rc-5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.14-rc-5-bin.zip",
+    "sha256": "dcdd1021345cfabd2c06a345700afe537bde5478cfb8c3ac59d6348eeb0647e9"
+  },
+  "2.14-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.14-rc-4-bin.zip",
+    "sha256": "471424c0998851572c8b0ac71807215fc717de1373dcb5b64889e0aa5d147d26"
+  },
+  "2.14-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.14-rc-3-bin.zip",
+    "sha256": "6b076728aef0adb281bcc31db7b4f83a061caaa36d61f00dc43e606a3de85578"
+  },
+  "2.14-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.14-rc-2-bin.zip",
+    "sha256": "eb824186223dec65fc3f9bb2755934b38c1cd005a0e6f0d80e282a2390214735"
+  },
+  "2.14-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.14-rc-1-bin.zip",
+    "sha256": "2ff85eb9eda60f13bc8debec69849e1e2a72b7bfc5af5d26e61a293b5dcbceba"
+  },
+  "2.13": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.13-bin.zip",
+    "sha256": "0f665ec6a5a67865faf7ba0d825afb19c26705ea0597cec80dd191b0f2cbb664"
+  },
+  "2.13-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.13-rc-2-bin.zip",
+    "sha256": "949853dedce0b63898a1aedde39a8e8610ca061a59268a9bc70b496f91e60854"
+  },
+  "2.13-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.13-rc-1-bin.zip",
+    "sha256": "75941a17c6db68b83e82ca27b8d813cc8855b3b8999228b82b1704798f2d4b6b"
+  },
+  "2.12": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.12-bin.zip",
+    "sha256": "e77064981906cd0476ff1e0de3e6fef747bd18e140960f1915cca8ff6c33ab5c"
+  },
+  "2.12-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.12-rc-1-bin.zip",
+    "sha256": "bb4ccf5399301d34a1d2a6ae6ae6dfb4bd4db61b499581a1bcbd976008a278a2"
+  },
+  "2.11": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.11-bin.zip",
+    "sha256": "8d7437082356c9fd6309a4479c8db307673965546daea445c6c72759cd6b1ed6"
+  },
+  "2.11-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.11-rc-3-bin.zip",
+    "sha256": "6191865dbe7e2e45125285d6c4316f99d02280dadf8375c290c16e9c995c3188"
+  },
+  "2.11-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.11-rc-2-bin.zip",
+    "sha256": "7112bffc0e69c35040d4f0a6e71c3593a629831d698e8e85797b2afafae18cee"
+  },
+  "2.11-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.11-rc-1-bin.zip",
+    "sha256": "4af1d57f3f3679452944cfeac172949991ff76257b6e511287b2c02951dd7706"
+  },
+  "2.10": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.10-bin.zip",
+    "sha256": "66406247f745fc6f05ab382d3f8d3e120c339f34ef54b86f6dc5f6efc18fbb13"
+  },
+  "2.10-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.10-rc-2-bin.zip",
+    "sha256": "49650433ba07e8d1cdcb4a3ee6568fbf82ccff61b8cb76e2e7040a2c2f1a9c7b"
+  },
+  "2.10-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.10-rc-1-bin.zip",
+    "sha256": "f1799317f138612764db1c9cf53638e100038b3494803bf38966d55e8db58cef"
+  },
+  "2.9": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.9-bin.zip",
+    "sha256": "c9159ec4362284c0a38d73237e224deae6139cbde0db4f0f44e1c7691dd3de2f"
+  },
+  "2.9-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.9-rc-1-bin.zip",
+    "sha256": "d278e80f9f0590f6eaa9c8b9c69c4d66a281c5a9bbb736524fdba5f74c4875a1"
+  },
+  "2.8": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.8-bin.zip",
+    "sha256": "a88db9c2f104defdaa8011c58cf6cda6c114298ae3695ecfb8beb30da3a903cb"
+  },
+  "2.8-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.8-rc-2-bin.zip",
+    "sha256": "659d6057613a33211f91ce17ce99cfeea03171db771ce842a1968ec49be17696"
+  },
+  "2.8-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.8-rc-1-bin.zip",
+    "sha256": "048735c9f06c654b925156e8ca6237c623982ac3b425c3925b8097c13c77dfab"
+  },
+  "2.7": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.7-bin.zip",
+    "sha256": "cde43b90945b5304c43ee36e58aab4cc6fb3a3d5f9bd9449bb1709a68371cb06"
+  },
+  "2.7-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.7-rc-2-bin.zip",
+    "sha256": "0854997cd8d77f79a58f3ebc2f19b0b9891d30579fe5392cb5a746b563c20e78"
+  },
+  "2.7-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.7-rc-1-bin.zip",
+    "sha256": "5f54dea2792e1c94bbf2f76189a6b8404cc2492a56ffc06bda6dd4aef2d9d8f8"
+  },
+  "2.6": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.6-bin.zip",
+    "sha256": "18a98c560af231dfa0d3f8e0802c20103ae986f12428bb0a6f5396e8f14e9c83"
+  },
+  "2.6-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.6-rc-2-bin.zip",
+    "sha256": "82ad20a1c6408176b50e9c07dae8a1c1e2bf9cdd02d11ace8ee92539672f45db"
+  },
+  "2.6-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.6-rc-1-bin.zip",
+    "sha256": "5d98379be8076d4c11eaaae8a17c6cbe58cc3d6d76ddd08d962ce8e76c2df67e"
+  },
+  "2.5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.5-bin.zip",
+    "sha256": "3f953e0cb14bb3f9ebbe11946e84071547bf5dfd575d90cfe9cc4e788da38555"
+  },
+  "2.5-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.5-rc-2-bin.zip",
+    "sha256": "8807bc2e29e215e5d4760fb665815477ff7a07b7fddf3d56c38260e5981a2825"
+  },
+  "2.5-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.5-rc-1-bin.zip",
+    "sha256": "1c712b049108d6d0630c78ada345d9adbfc3e1ca4fc6a2bcaecca25634292809"
+  },
+  "2.4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.4-bin.zip",
+    "sha256": "c4eaecc621a81f567ded1aede4a5ddb281cc02a03a6a87c4f5502add8fc2f16f"
+  },
+  "2.4-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.4-rc-2-bin.zip",
+    "sha256": "f36496775b847302e7081b6b051086296882804c7365c0b5e073227ff1cec8ac"
+  },
+  "2.4-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.4-rc-1-bin.zip",
+    "sha256": "ebd8ebc8954b0fb30696d561e41d6a717db42af6c0640099af8e688b10813135"
+  },
+  "2.3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.3-bin.zip",
+    "sha256": "010dd9f31849abc3d5644e282943b1c1c355f8e2635c5789833979ce590a3774"
+  },
+  "2.3-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.3-rc-4-bin.zip",
+    "sha256": "34878db3896bd7d2b29406cbdb0c156078ab62f3361f9b4df689cfb3814d8906"
+  },
+  "2.3-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.3-rc-3-bin.zip",
+    "sha256": "6ce92b77f67f3bf0f543cfb723796919964b969b454e630c8e8b882692e90f23"
+  },
+  "2.3-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.3-rc-2-bin.zip",
+    "sha256": "1a90fbaf3db2b0b86d7b8b7df5c1760732ef94f984ffd71264b1821076e268c9"
+  },
+  "2.3-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.3-rc-1-bin.zip",
+    "sha256": "a78846df63ed81971eed2db62efca4ce0d595a53a9f1d08e341c7ddae0c04b56"
+  },
+  "2.2.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.2.1-bin.zip",
+    "sha256": "420aa50738299327b611c10b8304b749e8d3a579407ee9e755b15921d95ff418"
+  },
+  "2.2.1-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.2.1-rc-1-bin.zip",
+    "sha256": "65b87391af213341f19bf74b15f2a506a0136bb8aa466d87ac2b7d55d3ddab71"
+  },
+  "2.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.2-bin.zip",
+    "sha256": "91e5655fe11ef414449f218c4fa2985b3a49b7903c57556da109c84fa26e1dfb"
+  },
+  "2.2-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.2-rc-2-bin.zip",
+    "sha256": "d430d7e508116a7c917c394879f85c29e1bdce921f15d12ddf8473fab0564d92"
+  },
+  "2.2-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.2-rc-1-bin.zip",
+    "sha256": "58292023856cc9ceb7e6376efece7ee3c2f95b7d1986d7f5f95b7db5f2120767"
+  },
+  "2.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.1-bin.zip",
+    "sha256": "3eee4f9ea2ab0221b89f8e4747a96d4554d00ae46d8d633f11cfda60988bf878"
+  },
+  "2.1-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.1-rc-4-bin.zip",
+    "sha256": "9894bc2d60e5a1cca564313f6e68af0b57cd21b95cd68e96c8bd215cab8a944d"
+  },
+  "2.1-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.1-rc-3-bin.zip",
+    "sha256": "8a6839bac38e97d2b55fa1ad1e10c0223f3a1e39f4ced9178a8f666fd017829f"
+  },
+  "2.1-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.1-rc-2-bin.zip",
+    "sha256": "6a641aa38dd88b572d1baa35ac14858b4d7f0f4b83f1677fbb3adfe4391950ce"
+  },
+  "2.1-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.1-rc-1-bin.zip",
+    "sha256": "eeff5d7f43b4ef1c1c29916b29c50c4d8cda32b65ab4e322a6d50f04b7601ae1"
+  },
+  "2.0": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.0-bin.zip",
+    "sha256": "a1eb880c8755333c4d33c4351b269bebe517002532d3142c0b6164c9e8c081c3"
+  },
+  "2.0-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.0-rc-2-bin.zip",
+    "sha256": "932fbabf535876be50ff1d07a4d7fab7f7ae03275a2c5615da2e8add5d4b7c76"
+  },
+  "2.0-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-2.0-rc-1-bin.zip",
+    "sha256": "8240c8f325d0233146e1e21dab31de6b7e653870111187d911eaf4704798faec"
+  },
+  "1.12": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.12-bin.zip",
+    "sha256": "8734b13a401f4311ee418173ed6ca8662d2b0a535be8ff2a43ecb1c13cd406ea"
+  },
+  "1.12-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.12-rc-2-bin.zip",
+    "sha256": "886e40b53d772cacc0cf0a145d464790c125d2cf19c28d93f534eb2ae86186bc"
+  },
+  "1.12-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.12-rc-1-bin.zip",
+    "sha256": "3f9f970be1b02e9d05c95344fb7fd468be7285d38f2e22ea194bc3e12207a250"
+  },
+  "1.11": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.11-bin.zip",
+    "sha256": "07e235df824964f0e19e73ea2327ce345c44bcd06d44a0123d29ab287fc34091"
+  },
+  "1.11-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.11-rc-1-bin.zip",
+    "sha256": "d16d91f5081ce7665dca6562fb200d181f2abbb8c8ffef4ea8b9a3bad4079db4"
+  },
+  "1.10": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.10-bin.zip",
+    "sha256": "6e6db4fc595f27ceda059d23693b6f6848583950606112b37dfd0e97a0a0a4fe"
+  },
+  "1.10-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.10-rc-2-bin.zip",
+    "sha256": "6930c2882cf984a7c3ad49b31ed179224ff956d5844d228c814055ae88afa78e"
+  },
+  "1.10-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.10-rc-1-bin.zip",
+    "sha256": "25ca44dbfe099013a0a94ebe098da8b8b279d2d38bcc3737039067f5fc88c1f1"
+  },
+  "1.9": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.9-bin.zip",
+    "sha256": "097ddc2bcbc9da2bb08cbf6bf8079585e35ad088bafd42e8716bc96405db98e9"
+  },
+  "1.9-rc-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.9-rc-4-bin.zip",
+    "sha256": "5bdcf356f795ee85607d6aaa5534c26423ce8bf6f2bbd1eda0fb04ae8eebd943"
+  },
+  "1.9-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.9-rc-3-bin.zip",
+    "sha256": "4690509db43b713764ce869977414df97c692594c7ba2fa7e421ad5757b256a7"
+  },
+  "1.9-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.9-rc-2-bin.zip",
+    "sha256": "356844c3e7f7b16d620348f64fdbc8c39455d805855f6975c6f9cc6a357cc89c"
+  },
+  "1.9-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.9-rc-1-bin.zip",
+    "sha256": "667fa5360aea327f57df76a471886791756a0afb2f80fceef15efba1b1588b41"
+  },
+  "1.8": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.8-bin.zip",
+    "sha256": "a342bbfa15fd18e2482287da4959588f45a41b60910970a16e6d97959aea5703"
+  },
+  "1.8-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.8-rc-2-bin.zip",
+    "sha256": "7280197f1cdfdd00616cbbbcf16b078c1ed2bc92ec00c6b3a06b790d020995f8"
+  },
+  "1.8-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.8-rc-1-bin.zip",
+    "sha256": "b4aaf215b700adbe6d4057bfb86361d3d1f9edc45f8ddc5a985cd5c65a6df35f"
+  },
+  "1.7": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.7-bin.zip",
+    "sha256": "360c97d51621b5a1ecf66748c718594e5f790ae4fbc1499543e0c006033c9d30"
+  },
+  "1.7-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.7-rc-2-bin.zip",
+    "sha256": "db40dbf3ac4545372fdabafbb993344a2cef44ba6ff7436573bca2aba21fc611"
+  },
+  "1.7-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.7-rc-1-bin.zip",
+    "sha256": "d69df2d9b36d0a9c72b0975e791a50f0639cdca8e48e7df7e9aaf6c9d87f176f"
+  },
+  "1.6": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.6-bin.zip",
+    "sha256": "de3e89d2113923dcc2e0def62d69be0947ceac910abd38b75ec333230183fac4"
+  },
+  "1.6-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.6-rc-1-bin.zip",
+    "sha256": "3fdbb2d087d4916cb4162a6b87d0a1ffb6efcd296d9761001646fa0e21881629"
+  },
+  "1.5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.5-bin.zip",
+    "sha256": "a5511a0659caa47d9d74fd2844c9da43157d2f78e63a0223c6289d88f5aaecbe"
+  },
+  "1.5-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.5-rc-3-bin.zip",
+    "sha256": "7c99d43ccaea8215df7c5e82a3c1378908197925f4f4748315c75f69ae1dffbe"
+  },
+  "1.5-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.5-rc-2-bin.zip",
+    "sha256": "f7feac0fc31d919f4f36dc0a6b3450948c40c01e785f590e3991d4178841d415"
+  },
+  "1.5-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.5-rc-1-bin.zip",
+    "sha256": "5e25bf4ac2de6fdd7b0867b14144bd29d16b1e3390f1855b55855e0d7a2f7705"
+  },
+  "1.4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.4-bin.zip",
+    "sha256": "cd99e85fbcd0ae8b99e81c9992a2f10cceb7b5f009c3720ef3a0078f4f92e94e"
+  },
+  "1.4-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.4-rc-3-bin.zip",
+    "sha256": "0b7b24ff52d56586d6d3aae6b3ffdff5de279549e3b80105d159556057b11151"
+  },
+  "1.4-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.4-rc-2-bin.zip",
+    "sha256": "47a90853ac8eda1294e6dc3334448584a7e48ec2c8e76acadcd05bb6f411424f"
+  },
+  "1.4-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.4-rc-1-bin.zip",
+    "sha256": "133a12cb48dc0383d83ca84e92e8c555b0fdbad8d2b8e636216f739f2ef22921"
+  },
+  "1.3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.3-bin.zip",
+    "sha256": "ada68561efbb9f1cae0f9063974cbde15c180351a2f92bc2f1106e39ddcae5ba"
+  },
+  "1.3-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.3-rc-2-bin.zip",
+    "sha256": "46b3ff676c2a71f8aa4d5345e0b206920d7669f9b777d346dcebd85638afd3d0"
+  },
+  "1.3-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.3-rc-1-bin.zip",
+    "sha256": "f699e313f4e4681c18e1f63074af1d011dd775d8de5ec39bbaab6ce3e2a1e1ee"
+  },
+  "1.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.2-bin.zip",
+    "sha256": "eb53da3704d24cabb7565f34a3bf16bcd863c4b0c139917606fb15d4f27c7bdf"
+  },
+  "1.2-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.2-rc-1-bin.zip",
+    "sha256": "167410b26ff883d6531f74c13a6c0683f3f21013c8445f35db58ccac9613b788"
+  },
+  "1.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.1-bin.zip",
+    "sha256": "552c1fc9f3a1b9668b79cc447370f0263e664ffb6d5c6e1c21e77ce0c8a20d4c"
+  },
+  "1.1-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.1-rc-2-bin.zip",
+    "sha256": "78d904a6f0ec3231c4d032beddcfcee27046075624d724a9d087e0ad7e58d01d"
+  },
+  "1.1-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.1-rc-1-bin.zip",
+    "sha256": "655c3b09260b0db10fa0563bc72fc05d5165b67734a87baa7aa9f708eeeb71ca"
+  },
+  "1.0": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.0-bin.zip",
+    "sha256": "894bca0360a7e2040815096788f118a2dd106ff6694221b274efb9c32bce0384"
+  },
+  "1.0-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.0-rc-3-bin.zip",
+    "sha256": "a4b2a83bd7c173efc8722c111347283d26774a81508a445e4f234df98f711824"
+  },
+  "1.0-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.0-rc-2-bin.zip",
+    "sha256": "3ebb5367ede52e0f21246c3d06be70b7b66a96f078b2a139fa5c8269d5076911"
+  },
+  "1.0-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.0-rc-1-bin.zip",
+    "sha256": "ae4ae81fb46b108f359efad5fbbcbec50940a793e5b2bfb9929d1e82f2e10c49"
+  },
+  "1.0-milestone-9": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.0-milestone-9-bin.zip",
+    "sha256": "3499b262c1407d3965250aa40f5a154e77672a5f904e7d82e704ce9fa82719bc"
+  },
+  "1.0-milestone-8a": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.0-milestone-8a-bin.zip",
+    "sha256": "9dbace7ad2be4f4afdfde9aa495ff7a5f4cb2666ba5c7c21f01c119d9bbf6bc7"
+  },
+  "1.0-milestone-8": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.0-milestone-8-bin.zip",
+    "sha256": "480c3fe8c832c16c0d1e0f53b33b6401827baebd73eae2d7a3e89102c1dd8603"
+  },
+  "1.0-milestone-7": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.0-milestone-7-bin.zip",
+    "sha256": "074c37682e560d398cefa857dcd8fc67c318297d6d5dcd25d9f090332cd7564c"
+  },
+  "1.0-milestone-6": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.0-milestone-6-bin.zip",
+    "sha256": "9a2c3fca6aad82002a47cf6c721e6e5a45e0cbde3e280c8ef4eebefbe6797b1c"
+  },
+  "1.0-milestone-5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.0-milestone-5-bin.zip",
+    "sha256": "b00acd0fef3e6b014e43d62e7a3e6159eac037df28e18057a04dddc6728f2362"
+  },
+  "1.0-milestone-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.0-milestone-4-bin.zip",
+    "sha256": "882c8115a214495f5b6b9df3ba70dec9345698651e8c320036eed272be55ae6a"
+  },
+  "1.0-milestone-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.0-milestone-3-bin.zip",
+    "sha256": "06d2ee96e45a62fce8ba1f964b083876b789c3f97932b189d57c5f545000d461"
+  },
+  "1.0-milestone-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.0-milestone-2-bin.zip",
+    "sha256": "4fff2aa96eed3cec23537c807154ef3595ebaa99aa46d13dc479610ffcaa0574"
+  },
+  "1.0-milestone-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-1.0-milestone-1-bin.zip",
+    "sha256": "c2153f01eabba7abd874e8ebad42b7cfe76c4fb978bdbe288757b522a8755d8c"
+  },
+  "0.9.2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-0.9.2-bin.zip",
+    "sha256": "f94d7642348c558fc05ab5fd6fb947fb1ed8fed5931ddb73dd04fb0de22d669b"
+  },
+  "0.9.1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-0.9.1-bin.zip",
+    "sha256": "5d48cba95db031ec109ae9ab60561e960b6507046036e8191aa78572ec27e2a5"
+  },
+  "0.9": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-0.9-bin.zip",
+    "sha256": "994e46d4b467254a0f25ce92b602618331b9b3ac8b32a094fd84ff0e0ceec135"
+  },
+  "0.9-rc-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-0.9-rc-3-bin.zip",
+    "sha256": "3d07a0de2d8aa1c8ef7e6974c8eb84f47d0300d978c905d046a7d1087a0cb1a8"
+  },
+  "0.9-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-0.9-rc-2-bin.zip",
+    "sha256": "94c0b7d51514062c8bdb7d1435a130f4eafda99214274b4330fb77a41b466a01"
+  },
+  "0.9-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-0.9-rc-1-bin.zip",
+    "sha256": "344b93a2825d29ecacd8c9e9c69037b5badd87b219ef56d88b35b3ba07f9e714"
+  },
+  "0.8": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-0.8-bin.zip",
+    "sha256": "940e623ea98e40ea9ad398770a6ebb91a61c0869d394dda81aa86b0f4f0025e7"
+  },
+  "0.7": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-0.7-bin.zip",
+    "sha256": "4e354fcb0d5c0b0e7789cd6ee900456edaf993f6dd890c4a1c217d90d2a6a6ad"
+  }
+}
