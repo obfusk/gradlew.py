@@ -110,7 +110,13 @@ def _wrapper_props() -> str:
 
 
 def load_gradle_versions() -> Dict[Any, Any]:
-    """Load gradle-versions.json."""
+    r"""
+    Load gradle-versions.json.
+
+    >>> load_gradle_versions()["8.10.2"]
+    {'binzip_url': 'https://services.gradle.org/distributions/gradle-8.10.2-bin.zip', 'sha256': '31c55713e40233a8303827ceb42ca48a47267a0ad4bab9177123121e71524c26'}
+
+    """
     with open(_gradle_versions_json(), encoding="utf-8") as fh:
         return json.load(fh)        # type: ignore[no-any-return]
 
