@@ -1,0 +1,56 @@
+name: CI
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  actions: none
+  checks: none
+  contents: none
+  deployments: none
+  discussions: none
+  id-token: none
+  issues: none
+  packages: none
+  pages: none
+  pull-requests: none
+  repository-projects: none
+  security-events: none
+  statuses: none
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    strategy:
+      matrix:
+        python-version:
+          - '3.8'
+          - '3.9'
+          - '3.10'
+          - '3.11'
+          - '3.12'
+          - '3.13'
+        # - '3.14.0-alpha - 3.14'
+          - pypy3.8
+          - pypy3.9
+          - pypy3.10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+          submodules: true
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip install flake8 pylint mypy
+      - name: Test
+        run: make test
+      - name: Test gradle
+        run: |
+          ./gradlew.py -v --version 8.10.2 -- --version
+          test -x ~/.gradlewpy/gradle-8.10.2/bin/gradle
+          mkdir -p gradle/wrapper
+          printf '%s\n' distributionSha256Sum=31c55713e40233a8303827ceb42ca48a47267a0ad4bab9177123121e71524c26  >> gradle/wrapper/gradle-wrapper.properties
+          printf '%s\n' distributionUrl=https\\://services.gradle.org/distributions/gradle-8.10.2-bin.zip       >> gradle/wrapper/gradle-wrapper.properties
+          ./gradlew.py -v -- --version
