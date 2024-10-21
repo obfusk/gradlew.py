@@ -22,14 +22,14 @@ GRADLE_BINZIP_URL = "https://services.gradle.org/distributions/gradle-{}-bin.zip
 GRADLE_SHA256_URL = "https://services.gradle.org/distributions/gradle-{}-bin.zip.sha256"
 GRADLE_BINZIP_RX = re.compile(r"https://services\.gradle\.org/distributions/gradle-(.*)-bin.zip")
 
-LIBDIR = os.environ.get("GRADLEW_PY_LIBDIR") or str(Path.home() / ".gradlewpy")
+DISTDIR = os.environ.get("GRADLEW_PY_DISTDIR") or str(Path.home() / ".gradlewpy")
 
 
 class Error(Exception):
     """Error."""
 
 
-def gradlew(*args: str, libdir: str, version: Optional[str] = None,
+def gradlew(*args: str, distdir: str, version: Optional[str] = None,
             verbose: bool = False) -> None:
     """Gradle wrapper."""
     gradle_versions = load_gradle_versions()
@@ -49,14 +49,14 @@ def gradlew(*args: str, libdir: str, version: Optional[str] = None,
         raise Error(f"URL mismatch: expected {binzip_url!r}, .properties has {wrapper_binzip_url!r}")
     if wrapper_sha256 and sha256 != wrapper_sha256:
         raise Error(f"SHA-256 mismatch: expected {sha256!r}, .properties has {wrapper_sha256!r}")
-    gradle_cmd = download_gradle(libdir, version, binzip_url, sha256, verbose=verbose)
+    gradle_cmd = download_gradle(distdir, version, binzip_url, sha256, verbose=verbose)
     run_command(gradle_cmd, *args, verbose=verbose)
 
 
-def download_gradle(libdir: str, version: str, binzip_url: str, sha256: str,
+def download_gradle(distdir: str, version: str, binzip_url: str, sha256: str,
                     *, verbose: bool = False) -> str:
     """Download gradle."""
-    gradle_cmd = os.path.join(libdir, f"gradle-{version}", "bin", "gradle")
+    gradle_cmd = os.path.join(distdir, f"gradle-{version}", "bin", "gradle")
     if os.path.exists(gradle_cmd):
         return gradle_cmd
     if verbose:
@@ -70,15 +70,15 @@ def download_gradle(libdir: str, version: str, binzip_url: str, sha256: str,
             dl_sha256 = download_file(binzip_url, outfile)
         if dl_sha256 != sha256:
             raise Error(f"SHA-256 mismatch: expected {sha256!r}, actual {dl_sha256!r}")
-        Path(libdir).mkdir(exist_ok=True)
+        Path(distdir).mkdir(exist_ok=True)
         if shutil.which("unzip"):
-            run_command("unzip", "-q", "-d", libdir, outfile, verbose=verbose)
+            run_command("unzip", "-q", "-d", distdir, outfile, verbose=verbose)
         else:
             if verbose:
-                print(f"[UNZIP] path={libdir!r} {outfile!r}", file=sys.stderr)
+                print(f"[UNZIP] path={distdir!r} {outfile!r}", file=sys.stderr)
             import zipfile
             with zipfile.ZipFile(outfile) as zf:
-                zf.extractall(libdir)
+                zf.extractall(distdir)
             os.chmod(gradle_cmd, 0o755)
     return gradle_cmd
 
@@ -199,17 +199,17 @@ def run_command(*args: str, verbose: bool = False) -> None:
 
 
 def main() -> None:
-    usage = "gradlew.py [-h] [--libdir LIBDIR] [--version VERSION] [-v] [GRADLE_ARG ...]"
+    usage = "gradlew.py [-h] [--distdir DISTDIR] [--version VERSION] [-v] [GRADLE_ARG ...]"
     parser = argparse.ArgumentParser(description="pure python gradle wrapper", usage=usage)
-    parser.add_argument("--libdir", default=LIBDIR,
-                        help=f"directory for gradle [default: {LIBDIR!r}]")
+    parser.add_argument("--distdir", default=DISTDIR,
+                        help=f"directory for gradle dists [default: {DISTDIR!r}]")
     parser.add_argument("--version", help="override gradle version")
     parser.add_argument("-v", "--verbose", action="store_true")
     args, rest = parser.parse_known_args()
     if rest and rest[0] == "--":
         rest = rest[1:]
     try:
-        gradlew(*rest, libdir=args.libdir, version=args.version, verbose=args.verbose)
+        gradlew(*rest, distdir=args.distdir, version=args.version, verbose=args.verbose)
     except Error as e:
         print(f"Error: {e}.", file=sys.stderr)
         sys.exit(1)

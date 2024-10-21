@@ -10,13 +10,13 @@
 ```bash
 $ git clone https://github.com/obfusk/gradlew.py.git
 $ gradlew.py/gradlew.py --help
-usage: gradlew.py [-h] [--libdir LIBDIR] [--version VERSION] [-v] [GRADLE_ARG ...]
+usage: gradlew.py [-h] [--distdir DISTDIR] [--version VERSION] [-v] [GRADLE_ARG ...]
 
 pure python gradle wrapper
 
 options:
   -h, --help         show this help message and exit
-  --libdir LIBDIR    directory for gradle [default: '/home/username/.gradlewpy']
+  --distdir DISTDIR  directory for gradle dists [default: '/home/username/.gradlewpy']
   --version VERSION  override gradle version
   -v, --verbose
 $ gradlew.py/gradlew.py assembleRelease
@@ -34,8 +34,8 @@ $ gradlew.py/gradlew.py assembleRelease
   matches the recorded SHA-256 checksum in `gradle-versions.json`);
 * alternatively, the `gradle` version can be specified using `--version`;
 * saves the unpacked `gradle` in e.g. `~/.gradlewpy/gradle-8.10` (for `gradle`
-  `8.10`), the base directory (`~/.gradlewpy` by default) can be overridden
-  using `--libdir` or the `GRADLEW_PY_LIBDIR` environment variable;
+  `8.10`), the dist directory (`~/.gradlewpy` by default) can be overridden
+  using `--distdir` or the `GRADLEW_PY_DISTDIR` environment variable;
 * always checks the SHA-256 checksum of the downloaded `.zip` against the one
   recorded in `gradle-versions.json`, which is generated from
   `https://services.gradle.org/versions/all` (using `make`) before unpacking;
