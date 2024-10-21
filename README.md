@@ -1,6 +1,8 @@
 <!-- SPDX-FileCopyrightText: 2024 FC (Fay) Stegerman <flx@obfusk.net> -->
 <!-- SPDX-License-Identifier: GPL-3.0-or-later -->
 
+[![CI](https://github.com/obfusk/gradlew.py/actions/workflows/ci.yml/badge.svg)](https://github.com/obfusk/gradlew.py/actions/workflows/ci.yml)
+[![update](https://github.com/obfusk/gradlew.py/actions/workflows/update.yml/badge.svg)](https://github.com/obfusk/gradlew.py/actions/workflows/update.yml)
 [![GPLv3+](https://img.shields.io/badge/license-GPLv3+-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 
 # gradlew.py
