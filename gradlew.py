@@ -156,7 +156,7 @@ def _gradle_sha256(url: str) -> str:
 
 
 def _gradle_versions_json() -> str:
-    return os.path.join(os.path.dirname(__file__), "gradle-versions.json")
+    return os.path.join(os.path.dirname(os.path.realpath(__file__)), "gradle-versions.json")
 
 
 # FIXME: retry!
