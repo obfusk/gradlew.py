@@ -1,4 +1,8 @@
 {
+  "8.12-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.12-rc-2-bin.zip",
+    "sha256": "4c403eac4e3957107a6e954ae2b59ba6cf9823f683276f1f9e20ef79b8d350a2"
+  },
   "8.12-rc-1": {
     "binzip_url": "https://services.gradle.org/distributions/gradle-8.12-rc-1-bin.zip",
     "sha256": "4d9d7ad4cf8842f279649213d2f87d8f7e9a03ae75ac4389517aa574b1404b2a"
